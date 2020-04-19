@@ -1,0 +1,3 @@
+In this thesis, we revisited one of classic behavioral finance topics known as the "Dividend Puzzle". The “Dividend Puzzle” refers to in a frictionless market without considering trading costs and taxes, stock price is supposed to drop by the same amount as dividend on an ex-dividend day. However, decades of empirical research show that on average the price drops less than the dividend, which potentially produces a positive ex-day return. 
+
+Our analysis aims to investigate the tax influences on ex-day premium by comparing the dividend puzzle before and after the 2003 US tax reform, and explore the driving factors which could benefit discretionary trading.
